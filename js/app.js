@@ -98,3 +98,46 @@ for (let i = 0; i < 10000; i++) {
             break;
     }
 }
+
+
+
+if (document.images) {
+    chiffre = new Array(10);
+    chiffre[0] = new Image();
+    chiffre[0].src = "images/r0.gif";
+
+    chiffre[1] = new Image();
+    chiffre[1].src = "images/r1.gif";
+
+    chiffre[2] = new Image();
+    chiffre[2].src = "images/r2.gif";
+
+    chiffre[3] = new Image();
+    chiffre[3].src = "images/r3.gif";
+
+    chiffre[4] = new Image();
+    chiffre[4].src = "images/r4.gif";
+
+    chiffre[5] = new Image();
+    chiffre[5].src = "images/r5.gif";
+
+    chiffre[8] = new Image();
+    chiffre[8].src = "images/r8.gif";
+    
+    chiffre[9] = new Image();
+    chiffre[9].src = "images/r9.gif";
+}
+
+//-->
+
+// <body onLoad="startClock()" onUnLoad="stopClock()">
+// <p align="center">
+// <img src="images/rblanc.gif" width="15" height="20">
+// <img src="images/rblanc.gif" width="15" height="20">
+// <img src="images/rled.gif" width="15" height="20">
+// <img src="images/rblanc.gif" width="15" height="20">
+// <img src="images/rblanc.gif" width="15" height="20">
+// <img src="images/rled.gif" width="15" height="20">
+// <img src="images/rblanc.gif" width="15" height="20">
+// <img src="images/rblanc.gif" width="15" height="20">
+// </p>
