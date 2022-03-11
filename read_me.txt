@@ -24,7 +24,8 @@ Troisième étape
 ___________________________________________________________
 
 Ce qui est à faire:
-	- 
+	-Partie fonctionnelle des secondes
+	-Partie changement des images
 
 
 
