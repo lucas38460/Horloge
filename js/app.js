@@ -54,7 +54,7 @@ let heure2 = document.getElementById('heure2');
 let heure1 = document.getElementById('heure1');
 let seconde2 = document.getElementById('heure2');
 let seconde1 = document.getElementById('heure1');
-
+let button = document.getElementById('set0');
 
 
 let number = 0;
