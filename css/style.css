@@ -1,20 +1,11 @@
-* {
-    box-sizing: border-box;
-}
-
-html {
-    font-size: 62.5%;
-}
 
 body {
-    background: black;
+    background-color: black;
 }
 
-button {
-    margin: 3.8rem;
-    padding: rem;
-}
 
-img {
-    margin: 0.5rem;
-}
+/* clip-path: polygon(100% 10%, 100% 90%, 0 100%, 0 0);
+clip-path: polygon(100% 0, 100% 100%, 0 90%, 0 10%);
+clip-path: polygon(100% 0, 90% 100%, 10% 100%, 0 0);
+clip-path: polygon(90% 0, 100% 100%, 0 100%, 10% 0);
+clip-path: polygon(10% 0%, 90% 0%, 100% 50%, 90% 100%, 10% 100%, 0% 50%); */
