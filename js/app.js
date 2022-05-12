@@ -21,8 +21,6 @@ function counter(e) {
 
 setInterval(counter, 1000);
 
-function name(params) {
-  
-}
+// function name(params) {}
 
 // function convertisseur(tempsSec, tempsMin) {}
