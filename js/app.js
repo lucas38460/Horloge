@@ -9,7 +9,7 @@ for (let i = 0; i < trait.length; i++) {
 function counter(e) {
   if (secondes <= 0 && minutes > 0) {
     secondes = 59;
-    minutes --;
+    minutes--;
   } else if (secondes > 0) {
     secondes--;
   } else {

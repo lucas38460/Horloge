@@ -1,10 +1,31 @@
 
 body {
     background-color: black;
+    margin: 0 auto;
 }
 
-.trait {
-    background-color: red;
+.huit {
+    border: solid #111;
+    margin-bottom: 500px;
+}
+
+.horloge {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.huit {
+    display: flex;
+}
+
+.h_top, .h_bottom, .h_top2, .h_bottom2{
+    border: solid #111;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 880px;
 }
 
 /* clip-path: polygon(100% 10%, 100% 90%, 0 100%, 0 0);
